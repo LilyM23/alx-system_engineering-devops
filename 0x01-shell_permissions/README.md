@@ -1,1 +1,1 @@
- i_am_betty
+a script that prints the effective username of the current user
