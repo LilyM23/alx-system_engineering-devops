@@ -1,1 +1,1 @@
-Add /action to the PATH. /action
+Create a script that creates an alias
